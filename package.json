@@ -1,0 +1,25 @@
+{
+  "name": "@fakit/vue-placeholder",
+  "version": "0.1.0",
+  "keywords": [
+    "iamstudio",
+    "placeholder",
+    "vue"
+  ],
+  "description": "Vue placeholder for FA-Kit lob",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fa-kit/vue-placeholder.git"
+  },
+  "main": "./src/PLaceholder.vue",
+  "scripts": {
+    "build": "webpack --mode production",
+    "build:dev": "webpack --mode development --watch"
+  },
+  "author": "iAmStudio <info@i-am.studio>",
+  "bugs": {
+    "url": "https://github.com/fa-kit/vue-placeholder/issues"
+  },
+  "homepage": "https://github.com/fa-kit/vue-placeholder#readme",
+  "license": "ISC"
+}
